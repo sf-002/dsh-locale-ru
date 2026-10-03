@@ -2,12 +2,6 @@ MIT License
 
 Copyright (c) 2026 DeepSeek
 
-The Russian UI strings and dictionaries in this repository are a translation
-(derivative work) of the English strings shipped with DeepSeek Harness —
-https://github.com/deepseek-ai/deepseek-harness — which is distributed under the
-MIT License, Copyright (c) 2026 DeepSeek. They are used here under the terms of
-that license, and this notice is retained as the license requires.
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -25,3 +19,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Note on derived content
+
+The Russian UI strings and dictionaries in this repository (work/i18n/**,
+dist/dsh-locale-ru/**) are a translation — a derivative work — of the English
+strings shipped with DeepSeek Harness, https://github.com/deepseek-ai/deepseek-harness,
+which is distributed under the MIT License, Copyright (c) 2026 DeepSeek.
+They are redistributed here under the terms of that license, and the copyright
+notice above is retained as the license requires.
+
+The tooling in tools/ is original work of this repository's authors and is
+released under the same MIT terms.
+
+This project is unofficial and is not affiliated with, endorsed by, or
+sponsored by DeepSeek.
