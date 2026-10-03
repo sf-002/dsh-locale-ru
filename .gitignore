@@ -1,0 +1,17 @@
+node_modules/
+*.log
+Thumbs.db
+.DS_Store
+
+# local install notes for one specific machine
+/RU-LOCALIZATION.md
+/work/profile-backup/
+
+# scratch artifacts of the extraction/verification runs
+/work/dump-*.txt
+/work/*.err
+/work/*index*.html
+/work/*-report*.txt
+/work/register-calls.txt
+/asar-list.txt
+/asar-list.err

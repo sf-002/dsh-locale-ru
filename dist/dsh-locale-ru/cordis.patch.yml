@@ -1,0 +1,5 @@
+# Russian language pack: one client row that registers the `ru` locale and
+# its namespace dictionaries through the locale service.
+- insert:
+    - id: locale-ru
+      name: '@local/dsh-locale-ru'

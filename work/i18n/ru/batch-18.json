@@ -1,0 +1,84 @@
+{
+  "dsh-client-ui-sidebar-documentpreview|sidebarImage": {
+    "zoomControls": "Управление масштабом",
+    "zoomMenu": "Выбор масштаба",
+    "zoomOut": "Уменьшить",
+    "zoomIn": "Увеличить",
+    "zoomFitWidth": "По ширине",
+    "zoomValue": "{percent}%",
+    "title": "Изображение",
+    "preview": "Предпросмотр изображения: {name}",
+    "loading": "Отрисовка документа…",
+    "failed": "Не удалось показать изображение.",
+    "unsupported": "Для предпросмотра изображения требуется полное содержимое файла."
+  },
+  "dsh-client-ui-goal|goal": {
+    "phase.active": "Активная цель",
+    "phase.active.disarmed": "Неактивная цель",
+    "phase.paused": "Цель на паузе",
+    "phase.blocked": "Цель заблокирована",
+    "objective.aria": "Задача цели",
+    "commandInput.aria": "Ввод команды",
+    "action.save": "Сохранить цель",
+    "action.cancel": "Отменить изменение",
+    "action.pause": "Приостановить цель",
+    "action.resume": "Возобновить цель",
+    "action.edit": "Изменить цель",
+    "action.clear": "Очистить цель"
+  },
+  "dsh-client-ui-theme|settings.theme": {
+    "appearance.title": "Оформление",
+    "appearance.light": "Светлая",
+    "appearance.dark": "Тёмная",
+    "appearance.system": "Системная",
+    "fontSize.title": "Размер шрифта",
+    "fontSize.description": "Влияет только на содержимое беседы",
+    "fontSize.unit": "px",
+    "fontSize.increase": "Увеличить размер шрифта",
+    "fontSize.decrease": "Уменьшить размер шрифта"
+  },
+  "dsh-client-ui-approval|approval": {
+    "waiting": "Ожидание подтверждения",
+    "detail.aria": "Подробности подтверждения",
+    "escalation": "Инструмент {toolName} запрашивает привилегированное выполнение",
+    "reject": "Отклонить",
+    "allowOnce": "Разрешить один раз"
+  },
+  "dsh-client-ui-input-trigger|slash.menu": {
+    "command": "Команды",
+    "skill": "Навыки",
+    "subagent": "Субагенты",
+    "loading": "Загрузка…",
+    "drill.aria": "Просмотр папки",
+    "drill.hint": "Просмотр папки",
+    "drill.key": "Tab",
+    "crumbs.aria": "Навигация по папкам",
+    "suggestions.aria": "Подсказки по триггерам"
+  },
+  "dsh-client-ui-sidebar-documentpreview|documentHtml": {
+    "title": "HTML",
+    "frame": "Предпросмотр документа HTML",
+    "loading": "Отрисовка документа…",
+    "failed": "Не удалось показать предпросмотр документа HTML."
+  },
+  "dsh-client-ui-reference|reference": {
+    "section.files": "Файлы и папки",
+    "section.subagents": "Субагенты",
+    "section.sessions": "Сессии",
+    "candidate.noCwd": "(нет рабочего каталога)",
+    "crumb.root": "Рабочая область",
+    "time.now": "сейчас",
+    "time.minutes": "{n} мин",
+    "time.hours": "{n} ч",
+    "time.days": "{n} дн",
+    "time.months": "{n} мес",
+    "time.years": "{n} г"
+  },
+  "dsh-client-ui-sidebar|sidebar": {
+    "session.new": "Новая сессия",
+    "session.new.label": "Новая сессия",
+    "toggle.open": "Открыть боковую панель",
+    "toggle.collapse": "Свернуть боковую панель",
+    "panels.label": "Глобальные панели"
+  }
+}

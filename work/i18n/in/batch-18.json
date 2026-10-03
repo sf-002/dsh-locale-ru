@@ -1,0 +1,84 @@
+{
+  "dsh-client-ui-sidebar-documentpreview|sidebarImage": {
+    "zoomControls": "Zoom controls",
+    "zoomMenu": "Choose zoom",
+    "zoomOut": "Zoom out",
+    "zoomIn": "Zoom in",
+    "zoomFitWidth": "Fit width",
+    "zoomValue": "{percent}%",
+    "title": "Image",
+    "preview": "Image preview: {name}",
+    "loading": "Rendering document...",
+    "failed": "This image could not be displayed.",
+    "unsupported": "Image preview requires the complete file contents."
+  },
+  "dsh-client-ui-goal|goal": {
+    "phase.active": "Ongoing Goal",
+    "phase.active.disarmed": "Inactive Goal",
+    "phase.paused": "Paused Goal",
+    "phase.blocked": "Blocked Goal",
+    "objective.aria": "Goal objective",
+    "commandInput.aria": "Command input",
+    "action.save": "Save goal",
+    "action.cancel": "Cancel edit",
+    "action.pause": "Pause goal",
+    "action.resume": "Resume goal",
+    "action.edit": "Edit goal",
+    "action.clear": "Clear goal"
+  },
+  "dsh-client-ui-theme|settings.theme": {
+    "appearance.title": "Appearance",
+    "appearance.light": "Light",
+    "appearance.dark": "Dark",
+    "appearance.system": "System",
+    "fontSize.title": "Font size",
+    "fontSize.description": "Only affects conversation content",
+    "fontSize.unit": "px",
+    "fontSize.increase": "Increase font size",
+    "fontSize.decrease": "Decrease font size"
+  },
+  "dsh-client-ui-approval|approval": {
+    "waiting": "Waiting for approval",
+    "detail.aria": "Approval details",
+    "escalation": "Tool {toolName} requests privileged execution",
+    "reject": "Reject",
+    "allowOnce": "Allow once"
+  },
+  "dsh-client-ui-input-trigger|slash.menu": {
+    "command": "Commands",
+    "skill": "Skills",
+    "subagent": "Subagents",
+    "loading": "Loading…",
+    "drill.aria": "Browse folder",
+    "drill.hint": "Browse folder",
+    "drill.key": "Tab",
+    "crumbs.aria": "Folder navigation",
+    "suggestions.aria": "Trigger suggestions"
+  },
+  "dsh-client-ui-sidebar-documentpreview|documentHtml": {
+    "title": "HTML",
+    "frame": "HTML document preview",
+    "loading": "Rendering document...",
+    "failed": "This HTML document could not be previewed."
+  },
+  "dsh-client-ui-reference|reference": {
+    "section.files": "Files & folders",
+    "section.subagents": "Subagents",
+    "section.sessions": "Sessions",
+    "candidate.noCwd": "(no cwd)",
+    "crumb.root": "Workspace",
+    "time.now": "now",
+    "time.minutes": "{n}min",
+    "time.hours": "{n}h",
+    "time.days": "{n}d",
+    "time.months": "{n}mo",
+    "time.years": "{n}y"
+  },
+  "dsh-client-ui-sidebar|sidebar": {
+    "session.new": "New Session",
+    "session.new.label": "New session",
+    "toggle.open": "Open sidebar",
+    "toggle.collapse": "Collapse sidebar",
+    "panels.label": "Global panels"
+  }
+}

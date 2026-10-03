@@ -1,0 +1,467 @@
+[
+  {
+    "id": "batch-01",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-plugin-manager|pluginManager",
+        "namespace": "pluginManager",
+        "pkg": "dsh-client-ui-plugin-manager"
+      }
+    ],
+    "chars": 7076,
+    "entries": 189,
+    "inFile": "work\\i18n\\in\\batch-01.json",
+    "outFile": "work\\i18n\\ru\\batch-01.json",
+    "strings": 189
+  },
+  {
+    "id": "batch-02",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-conversation|conversation",
+        "namespace": "conversation",
+        "pkg": "dsh-client-ui-conversation"
+      }
+    ],
+    "chars": 6732,
+    "entries": 369,
+    "inFile": "work\\i18n\\in\\batch-02.json",
+    "outFile": "work\\i18n\\ru\\batch-02.json",
+    "strings": 369
+  },
+  {
+    "id": "batch-03",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-agent-preset|settings.agentPreset",
+        "namespace": "settings.agentPreset",
+        "pkg": "dsh-client-ui-agent-preset"
+      }
+    ],
+    "chars": 6728,
+    "entries": 41,
+    "inFile": "work\\i18n\\in\\batch-03.json",
+    "outFile": "work\\i18n\\ru\\batch-03.json",
+    "strings": 41
+  },
+  {
+    "id": "batch-04",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-schedule|schedule.manager",
+        "namespace": "schedule.manager",
+        "pkg": "dsh-client-ui-schedule"
+      }
+    ],
+    "chars": 4279,
+    "entries": 187,
+    "inFile": "work\\i18n\\in\\batch-04.json",
+    "outFile": "work\\i18n\\ru\\batch-04.json",
+    "strings": 187
+  },
+  {
+    "id": "batch-05",
+    "namespaces": [
+      {
+        "key": "dsh-experimental-client-ui-voice-input|voice-input",
+        "namespace": "voice-input",
+        "pkg": "dsh-experimental-client-ui-voice-input"
+      },
+      {
+        "key": "dsh-client-ui-sidebar-documentpreview|documentMarkdown",
+        "namespace": "documentMarkdown",
+        "pkg": "dsh-client-ui-sidebar-documentpreview"
+      },
+      {
+        "key": "dsh-client-locale|settings.locale",
+        "namespace": "settings.locale",
+        "pkg": "dsh-client-locale"
+      }
+    ],
+    "chars": 4199,
+    "entries": 106,
+    "inFile": "work\\i18n\\in\\batch-05.json",
+    "outFile": "work\\i18n\\ru\\batch-05.json",
+    "strings": 106
+  },
+  {
+    "id": "batch-06",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-settings-models|settings.models",
+        "namespace": "settings.models",
+        "pkg": "dsh-client-ui-settings-models"
+      },
+      {
+        "key": "dsh-client-ui-settings-plugins|settings.plugins",
+        "namespace": "settings.plugins",
+        "pkg": "dsh-client-ui-settings-plugins"
+      }
+    ],
+    "chars": 4198,
+    "entries": 118,
+    "inFile": "work\\i18n\\in\\batch-06.json",
+    "outFile": "work\\i18n\\ru\\batch-06.json",
+    "strings": 118
+  },
+  {
+    "id": "batch-07",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-chat|chat",
+        "namespace": "chat",
+        "pkg": "dsh-client-ui-chat"
+      }
+    ],
+    "chars": 3394,
+    "entries": 186,
+    "inFile": "work\\i18n\\in\\batch-07.json",
+    "outFile": "work\\i18n\\ru\\batch-07.json",
+    "strings": 186
+  },
+  {
+    "id": "batch-08",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-settings-account|settings.account",
+        "namespace": "settings.account",
+        "pkg": "dsh-client-ui-settings-account"
+      },
+      {
+        "key": "dsh-client-ui-settings-general|settings",
+        "namespace": "settings",
+        "pkg": "dsh-client-ui-settings-general"
+      },
+      {
+        "key": "dsh-client-ui-layout|shortcuts.layout",
+        "namespace": "shortcuts.layout",
+        "pkg": "dsh-client-ui-layout"
+      }
+    ],
+    "chars": 4078,
+    "entries": 128,
+    "inFile": "work\\i18n\\in\\batch-08.json",
+    "outFile": "work\\i18n\\ru\\batch-08.json",
+    "strings": 128
+  },
+  {
+    "id": "batch-09",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-trajectory|trajectory",
+        "namespace": "trajectory",
+        "pkg": "dsh-client-ui-trajectory"
+      }
+    ],
+    "chars": 2593,
+    "entries": 192,
+    "inFile": "work\\i18n\\in\\batch-09.json",
+    "outFile": "work\\i18n\\ru\\batch-09.json",
+    "strings": 192
+  },
+  {
+    "id": "batch-10",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-shortcuts|shortcuts",
+        "namespace": "shortcuts",
+        "pkg": "dsh-client-ui-shortcuts"
+      },
+      {
+        "key": "dsh-client-ui-settings-subagent|settings.subagent",
+        "namespace": "settings.subagent",
+        "pkg": "dsh-client-ui-settings-subagent"
+      },
+      {
+        "key": "dsh-experimental-client-ui-agent-team|agent-team",
+        "namespace": "agent-team",
+        "pkg": "dsh-experimental-client-ui-agent-team"
+      }
+    ],
+    "chars": 4194,
+    "entries": 116,
+    "inFile": "work\\i18n\\in\\batch-10.json",
+    "outFile": "work\\i18n\\ru\\batch-10.json",
+    "strings": 116
+  },
+  {
+    "id": "batch-11",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-workspace|workspace",
+        "namespace": "workspace",
+        "pkg": "dsh-client-ui-workspace"
+      },
+      {
+        "key": "dsh-client-ui-permission-presets|permission.access",
+        "namespace": "permission.access",
+        "pkg": "dsh-client-ui-permission-presets"
+      }
+    ],
+    "chars": 3124,
+    "entries": 129,
+    "inFile": "work\\i18n\\in\\batch-11.json",
+    "outFile": "work\\i18n\\ru\\batch-11.json",
+    "strings": 129
+  },
+  {
+    "id": "batch-12",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-deliverables|deliverables",
+        "namespace": "deliverables",
+        "pkg": "dsh-client-ui-deliverables"
+      },
+      {
+        "key": "dsh-client-ui-schedule|schedule.catalog",
+        "namespace": "schedule.catalog",
+        "pkg": "dsh-client-ui-schedule"
+      }
+    ],
+    "chars": 2527,
+    "entries": 130,
+    "inFile": "work\\i18n\\in\\batch-12.json",
+    "outFile": "work\\i18n\\ru\\batch-12.json",
+    "strings": 130
+  },
+  {
+    "id": "batch-13",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-cordis|cordis",
+        "namespace": "cordis",
+        "pkg": "dsh-client-ui-cordis"
+      },
+      {
+        "key": "dsh-client-ui-subagent|subagent",
+        "namespace": "subagent",
+        "pkg": "dsh-client-ui-subagent"
+      },
+      {
+        "key": "dsh-client-ui-sidebar-browser|sidebarBrowser",
+        "namespace": "sidebarBrowser",
+        "pkg": "dsh-client-ui-sidebar-browser"
+      },
+      {
+        "key": "dsh-client-ui-settings-shell|settings.shell",
+        "namespace": "settings.shell",
+        "pkg": "dsh-client-ui-settings-shell"
+      }
+    ],
+    "chars": 2988,
+    "entries": 130,
+    "inFile": "work\\i18n\\in\\batch-13.json",
+    "outFile": "work\\i18n\\ru\\batch-13.json",
+    "strings": 130
+  },
+  {
+    "id": "batch-14",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-sidebar-documentpreview|sidebarOffice",
+        "namespace": "sidebarOffice",
+        "pkg": "dsh-client-ui-sidebar-documentpreview"
+      },
+      {
+        "key": "dsh-client-ui-sidebar-terminal|sidebarTerminal",
+        "namespace": "sidebarTerminal",
+        "pkg": "dsh-client-ui-sidebar-terminal"
+      },
+      {
+        "key": "dsh-client-ui-settings-plugin-inventory|settings.pluginInventory",
+        "namespace": "settings.pluginInventory",
+        "pkg": "dsh-client-ui-settings-plugin-inventory"
+      },
+      {
+        "key": "dsh-client-ui-user-questions|question",
+        "namespace": "question",
+        "pkg": "dsh-client-ui-user-questions"
+      },
+      {
+        "key": "dsh-client-ui-sidebar-documentpreview|sidebarExcel",
+        "namespace": "sidebarExcel",
+        "pkg": "dsh-client-ui-sidebar-documentpreview"
+      }
+    ],
+    "chars": 3553,
+    "entries": 129,
+    "inFile": "work\\i18n\\in\\batch-14.json",
+    "outFile": "work\\i18n\\ru\\batch-14.json",
+    "strings": 129
+  },
+  {
+    "id": "batch-15",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-sidebar-right|sidebarRight",
+        "namespace": "sidebarRight",
+        "pkg": "dsh-client-ui-sidebar-right"
+      },
+      {
+        "key": "dsh-client-ui-settings-web-search|settings.webSearch",
+        "namespace": "settings.webSearch",
+        "pkg": "dsh-client-ui-settings-web-search"
+      },
+      {
+        "key": "dsh-client-ui-model-selection|model",
+        "namespace": "model",
+        "pkg": "dsh-client-ui-model-selection"
+      },
+      {
+        "key": "dsh-client-ui-jobs|job",
+        "namespace": "job",
+        "pkg": "dsh-client-ui-jobs"
+      },
+      {
+        "key": "dsh-client-ui-settings-agent-loop|settings.agentLoop",
+        "namespace": "settings.agentLoop",
+        "pkg": "dsh-client-ui-settings-agent-loop"
+      },
+      {
+        "key": "dsh-client-ui-settings-session-log|settings.sessionLog",
+        "namespace": "settings.sessionLog",
+        "pkg": "dsh-client-ui-settings-session-log"
+      }
+    ],
+    "chars": 3134,
+    "entries": 130,
+    "inFile": "work\\i18n\\in\\batch-15.json",
+    "outFile": "work\\i18n\\ru\\batch-15.json",
+    "strings": 130
+  },
+  {
+    "id": "batch-16",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-sidebar-documentpreview|sidebarDocumentPreview",
+        "namespace": "sidebarDocumentPreview",
+        "pkg": "dsh-client-ui-sidebar-documentpreview"
+      },
+      {
+        "key": "dsh-client-ui-message-feedback|feedback",
+        "namespace": "feedback",
+        "pkg": "dsh-client-ui-message-feedback"
+      },
+      {
+        "key": "dsh-client-ui-open-in-app|open-in-app",
+        "namespace": "open-in-app",
+        "pkg": "dsh-client-ui-open-in-app"
+      },
+      {
+        "key": "dsh-client-ui-commands|command",
+        "namespace": "command",
+        "pkg": "dsh-client-ui-commands"
+      },
+      {
+        "key": "dsh-client-ui-permission-presets|settings.permission",
+        "namespace": "settings.permission",
+        "pkg": "dsh-client-ui-permission-presets"
+      },
+      {
+        "key": "dsh-client-ui-sidebar-documentpreview|sidebarCodePreview",
+        "namespace": "sidebarCodePreview",
+        "pkg": "dsh-client-ui-sidebar-documentpreview"
+      }
+    ],
+    "chars": 2524,
+    "entries": 130,
+    "inFile": "work\\i18n\\in\\batch-16.json",
+    "outFile": "work\\i18n\\ru\\batch-16.json",
+    "strings": 130
+  },
+  {
+    "id": "batch-17",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-sidebar-files|sidebarFiles",
+        "namespace": "sidebarFiles",
+        "pkg": "dsh-client-ui-sidebar-files"
+      },
+      {
+        "key": "dsh-client-locale|common",
+        "namespace": "common",
+        "pkg": "dsh-client-locale"
+      },
+      {
+        "key": "dsh-client-ui-plan|plan",
+        "namespace": "plan",
+        "pkg": "dsh-client-ui-plan"
+      },
+      {
+        "key": "dsh-client-ui-sidebar-documentpreview|sidebarPdf",
+        "namespace": "sidebarPdf",
+        "pkg": "dsh-client-ui-sidebar-documentpreview"
+      },
+      {
+        "key": "dsh-client-ui-workflow-run|workflowRun",
+        "namespace": "workflowRun",
+        "pkg": "dsh-client-ui-workflow-run"
+      },
+      {
+        "key": "dsh-client-ui-directory-picker-browse|directory-browser",
+        "namespace": "directory-browser",
+        "pkg": "dsh-client-ui-directory-picker-browse"
+      },
+      {
+        "key": "dsh-client-ui-skill|skill",
+        "namespace": "skill",
+        "pkg": "dsh-client-ui-skill"
+      }
+    ],
+    "chars": 2114,
+    "entries": 129,
+    "inFile": "work\\i18n\\in\\batch-17.json",
+    "outFile": "work\\i18n\\ru\\batch-17.json",
+    "strings": 129
+  },
+  {
+    "id": "batch-18",
+    "namespaces": [
+      {
+        "key": "dsh-client-ui-sidebar-documentpreview|sidebarImage",
+        "namespace": "sidebarImage",
+        "pkg": "dsh-client-ui-sidebar-documentpreview"
+      },
+      {
+        "key": "dsh-client-ui-goal|goal",
+        "namespace": "goal",
+        "pkg": "dsh-client-ui-goal"
+      },
+      {
+        "key": "dsh-client-ui-theme|settings.theme",
+        "namespace": "settings.theme",
+        "pkg": "dsh-client-ui-theme"
+      },
+      {
+        "key": "dsh-client-ui-approval|approval",
+        "namespace": "approval",
+        "pkg": "dsh-client-ui-approval"
+      },
+      {
+        "key": "dsh-client-ui-input-trigger|slash.menu",
+        "namespace": "slash.menu",
+        "pkg": "dsh-client-ui-input-trigger"
+      },
+      {
+        "key": "dsh-client-ui-sidebar-documentpreview|documentHtml",
+        "namespace": "documentHtml",
+        "pkg": "dsh-client-ui-sidebar-documentpreview"
+      },
+      {
+        "key": "dsh-client-ui-reference|reference",
+        "namespace": "reference",
+        "pkg": "dsh-client-ui-reference"
+      },
+      {
+        "key": "dsh-client-ui-sidebar|sidebar",
+        "namespace": "sidebar",
+        "pkg": "dsh-client-ui-sidebar"
+      }
+    ],
+    "chars": 848,
+    "entries": 66,
+    "inFile": "work\\i18n\\in\\batch-18.json",
+    "outFile": "work\\i18n\\ru\\batch-18.json",
+    "strings": 66
+  }
+]

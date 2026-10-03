@@ -1,0 +1,107 @@
+dsh-client-ui-plugin-manager|pluginManager	versionTag	v{version}
+dsh-client-ui-plugin-manager|pluginManager	installGuideIdExample	dsh-plugin-whale-pet
+dsh-client-ui-plugin-manager|pluginManager	registryCustomPlaceholder	https://npm.example.com/
+dsh-client-ui-plugin-manager|pluginManager	registryListSeparator	, 
+dsh-client-ui-conversation|conversation	detail.schedule.cron	Cron {expression} ({zone})
+dsh-client-ui-conversation|conversation	detail.weekday.join	, 
+dsh-client-ui-conversation|conversation	detail.field.id	ID
+dsh-client-ui-conversation|conversation	tool.title.bash	Bash
+dsh-client-ui-conversation|conversation	tool.title.pwsh	Pwsh
+dsh-client-ui-conversation|conversation	tool.title.grep	Grep
+dsh-client-ui-conversation|conversation	tool.title.glob	Glob
+dsh-client-ui-conversation|conversation	web.http	HTTP
+dsh-client-ui-schedule|schedule.manager	time.locale	en
+dsh-client-ui-schedule|schedule.manager	time.utcPrefix	UTC
+dsh-client-ui-schedule|schedule.manager	frequency.cron	Cron {expression} ({timeZone})
+dsh-client-ui-schedule|schedule.manager	frequency.cronLocal	Cron {expression}
+dsh-client-ui-schedule|schedule.manager	frequency.cronRule	{rule} ({timeZone})
+dsh-client-ui-schedule|schedule.manager	cron.list.join	, 
+dsh-client-ui-schedule|schedule.manager	cron.weekday.name	{weekday}
+dsh-client-ui-schedule|schedule.manager	cron.weekday.range	{from}–{to}
+dsh-client-ui-schedule|schedule.manager	cron.day.weekdays	{weekdays}{months}
+dsh-client-ui-schedule|schedule.manager	cron.hours.range	{from}–{to}
+dsh-client-ui-schedule|schedule.manager	cron.hours.list	{hours}
+dsh-client-ui-schedule|schedule.manager	frequency.weekday.join	, 
+dsh-experimental-client-ui-voice-input|voice-input	sourceHuggingFace	Hugging Face
+dsh-client-ui-sidebar-documentpreview|documentMarkdown	viewer.label	Markdown
+dsh-client-ui-settings-models|settings.models	deepSeekBaseUrl	https://api.deepseek.com/anthropic
+dsh-client-ui-settings-models|settings.models	protocolOpenAiCompletions	OpenAI Chat Completions
+dsh-client-ui-settings-models|settings.models	protocolOpenAiResponses	OpenAI Responses
+dsh-client-ui-settings-models|settings.models	protocolAnthropicMessages	Anthropic Messages
+dsh-client-ui-settings-models|settings.models	customBaseUrlPlaceholder	https://gateway.example/v1
+dsh-client-ui-settings-models|settings.models	customAnthropicBaseUrlPlaceholder	https://gateway.example
+dsh-client-ui-chat|chat	message.stepProcess.comma	, 
+dsh-client-ui-chat|chat	message.referenceSeparator	, 
+dsh-client-ui-chat|chat	message.compaction.commandTitle	compact
+dsh-client-ui-chat|chat	message.turnProcess.separator	 · 
+dsh-client-ui-chat|chat	clock.md	{m}/{d}
+dsh-client-ui-chat|chat	clock.ymd	{y}-{m}-{d}
+dsh-client-ui-settings-account|settings.account	onboardingArtworkLocale	en
+dsh-client-ui-settings-account|settings.account	onboardingBrand	DeepSeek Harness
+dsh-client-ui-settings-general|settings	desktop.update.progress	{percent}%
+dsh-client-ui-settings-general|settings	desktop.update.versionDetail	{label}: {version}
+dsh-client-ui-trajectory|trajectory	timing.ttft	TTFT
+dsh-client-ui-trajectory|trajectory	record.json	JSON
+dsh-client-ui-trajectory|trajectory	request.rowAria	{request}{kind}, {content}
+dsh-client-ui-shortcuts|shortcuts	desktop-document	userData/keybindings.json
+dsh-client-ui-workspace|workspace	archive.confirm.listSeparator	, 
+dsh-client-ui-workspace|workspace	date.ymd	{y}-{m}-{d}
+dsh-client-ui-deliverables|deliverables	changes.added	+{count}
+dsh-client-ui-deliverables|deliverables	changes.deleted	-{count}
+dsh-client-ui-schedule|schedule.catalog	time.utcPrefix	UTC
+dsh-client-ui-schedule|schedule.catalog	frequency.cronRule	{rule} ({timeZone})
+dsh-client-ui-schedule|schedule.catalog	cron.list.join	, 
+dsh-client-ui-schedule|schedule.catalog	cron.weekday.name	{weekday}
+dsh-client-ui-schedule|schedule.catalog	cron.weekday.range	{from}–{to}
+dsh-client-ui-schedule|schedule.catalog	cron.day.weekdays	{weekdays}{months}
+dsh-client-ui-schedule|schedule.catalog	cron.hours.range	{from}–{to}
+dsh-client-ui-schedule|schedule.catalog	cron.hours.list	{hours}
+dsh-client-ui-schedule|schedule.catalog	frequency.weekday.join	, 
+dsh-client-ui-settings-shell|settings.shell	title	Shell
+dsh-client-ui-sidebar-documentpreview|sidebarExcel	language	en
+dsh-client-ui-sidebar-documentpreview|sidebarExcel	featureSeparator	, 
+dsh-client-ui-open-in-app|open-in-app	app.cursor	Cursor
+dsh-client-ui-open-in-app|open-in-app	app.vscode	VS Code
+dsh-client-ui-open-in-app|open-in-app	app.vscodeinsiders	VS Code Insiders
+dsh-client-ui-open-in-app|open-in-app	app.windsurf	Windsurf
+dsh-client-ui-open-in-app|open-in-app	app.zed	Zed
+dsh-client-ui-open-in-app|open-in-app	app.sublimetext	Sublime Text
+dsh-client-ui-open-in-app|open-in-app	app.xcode	Xcode
+dsh-client-ui-open-in-app|open-in-app	app.androidstudio	Android Studio
+dsh-client-ui-open-in-app|open-in-app	app.intellij	IntelliJ IDEA
+dsh-client-ui-open-in-app|open-in-app	app.pycharm	PyCharm
+dsh-client-ui-open-in-app|open-in-app	app.webstorm	WebStorm
+dsh-client-ui-open-in-app|open-in-app	app.phpstorm	PhpStorm
+dsh-client-ui-open-in-app|open-in-app	app.goland	GoLand
+dsh-client-ui-open-in-app|open-in-app	app.rider	Rider
+dsh-client-ui-open-in-app|open-in-app	app.rustrover	RustRover
+dsh-client-ui-open-in-app|open-in-app	app.fork	Fork
+dsh-client-ui-open-in-app|open-in-app	app.sourcetree	Sourcetree
+dsh-client-ui-open-in-app|open-in-app	app.github	GitHub Desktop
+dsh-client-ui-open-in-app|open-in-app	app.tower	Tower
+dsh-client-ui-open-in-app|open-in-app	app.gitkraken	GitKraken
+dsh-client-ui-open-in-app|open-in-app	app.smartgit	SmartGit
+dsh-client-ui-open-in-app|open-in-app	app.sublimemerge	Sublime Merge
+dsh-client-ui-open-in-app|open-in-app	app.ghostty	Ghostty
+dsh-client-ui-open-in-app|open-in-app	app.warp	Warp
+dsh-client-ui-open-in-app|open-in-app	app.iterm	iTerm2
+dsh-client-ui-open-in-app|open-in-app	app.kitty	kitty
+dsh-client-ui-open-in-app|open-in-app	app.windowsterminal	Windows Terminal
+dsh-client-ui-open-in-app|open-in-app	app.gitbash	Git Bash
+dsh-client-ui-open-in-app|open-in-app	app.gnometerminal	GNOME Terminal
+dsh-client-ui-open-in-app|open-in-app	app.konsole	Konsole
+dsh-client-ui-open-in-app|open-in-app	app.finder	Finder
+dsh-client-ui-commands|command	token.goal	goal
+dsh-client-ui-commands|command	token.plan	plan
+dsh-client-ui-commands|command	token.feedback	feedback
+dsh-client-ui-commands|command	token.compact	compact
+dsh-client-ui-commands|command	token.permission	permission
+dsh-client-ui-commands|command	token.export	export
+dsh-client-locale|common	json.label	JSON
+dsh-client-ui-sidebar-documentpreview|sidebarPdf	zoomValue	{percent}%
+dsh-client-ui-sidebar-documentpreview|sidebarPdf	title	PDF
+dsh-client-ui-workflow-run|workflowRun	run.title	{name}
+dsh-client-ui-sidebar-documentpreview|sidebarImage	zoomValue	{percent}%
+dsh-client-ui-theme|settings.theme	fontSize.unit	px
+dsh-client-ui-input-trigger|slash.menu	drill.key	Tab
+dsh-client-ui-sidebar-documentpreview|documentHtml	title	HTML
