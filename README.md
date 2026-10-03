@@ -114,7 +114,7 @@ node tools/deploy-locale-pack.mjs --profile "$env:USERPROFILE\.dsh\profiles\desk
 Проект распространяется под [MIT](LICENSE). Русские строки — производная работа
 от английских строк DeepSeek Harness
 ([MIT, Copyright (c) 2026 DeepSeek](https://github.com/deepseek-ai/deepseek-harness)),
-уведомление об авторских правах сохранено в `LICENSE`.
+уведомление об авторских правах сохранено; подробности — в [NOTICE](NOTICE).
 
 Проект **не связан с DeepSeek** и не является официальным переводом. Названия и
 товарные знаки принадлежат их владельцам; логотипы и ресурсы приложения здесь не

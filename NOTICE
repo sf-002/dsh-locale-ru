@@ -1,0 +1,30 @@
+NOTICE
+======
+
+Derived content
+---------------
+
+The Russian UI strings and dictionaries in this repository
+(`work/i18n/**`, `dist/dsh-locale-ru/**`) are a translation — a derivative
+work — of the English strings shipped with DeepSeek Harness:
+
+    DeepSeek Harness — https://github.com/deepseek-ai/deepseek-harness
+    MIT License, Copyright (c) 2026 DeepSeek
+
+They are redistributed here under the terms of that MIT license, and the
+copyright and permission notice is retained in `LICENSE`, as the license
+requires.
+
+The tooling in `tools/` is original work of this repository's contributors and
+is released under the same MIT terms.
+
+No assets of the application itself (binaries, icons, fonts, the `app.asar`
+archive) are redistributed here; the repository contains only text
+dictionaries and source files of the language pack.
+
+Trademarks and affiliation
+--------------------------
+
+This project is unofficial. It is not affiliated with, endorsed by, or
+sponsored by DeepSeek. Product names and trademarks belong to their respective
+owners and are used here only to describe compatibility.
